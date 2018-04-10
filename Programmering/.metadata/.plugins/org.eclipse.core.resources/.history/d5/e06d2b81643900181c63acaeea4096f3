@@ -1,0 +1,14 @@
+package opgave2;
+
+import java.util.ArrayList;
+
+public class Konto {
+	private int nr;
+	private Kontotype kontotype;
+	private ArrayList<Transaktion> transaktioner = new ArrayList<Transaktion>();
+
+	public Konto(Kontotype kontotype) {
+		// TODO Auto-generated constructor stub
+		this.kontotype = kontotype;
+	}
+}
