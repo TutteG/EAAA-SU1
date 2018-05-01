@@ -1,7 +1,0 @@
-package opgave2;
-
-public class KontoApp {
-public static void main(String[] args) {
-	
-}
-}

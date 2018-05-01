@@ -41,6 +41,7 @@
 	<section name="ZipFileImportWizard">
 		<item value="true" key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
 		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\Torbe\Downloads\TilstandeBankSystemElev.jar"/>
 			<item value="C:\Users\Torbe\Dropbox\EAAA-Datamatiker\Programmering\Aflevering\PRO Aflevering 3\Yatzy - Rasmus og Torben.jar"/>
 			<item value="C:\Users\Torbe\Downloads\GeneraliseringElev.jar"/>
 			<item value="C:\Users\Torbe\Dropbox\EAAA-Datamatiker\Programmering\Aflevering\PRO Aflevering 2\ArraysAflevering-Torben.jar"/>

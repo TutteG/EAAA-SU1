@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/Opgave7-Generalisering/src/opgave4/DyrApp.java"/>
+<listEntry value="/Opgave07-Generalisering/src/opgave4/DyrApp.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="opgave4.DyrApp"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Opgave7-Generalisering"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Opgave07-Generalisering"/>
 </launchConfiguration>

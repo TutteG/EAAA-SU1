@@ -1,9 +1,0 @@
-package opgave2;
-
-public class KontoApp {
-	public static void main(String[] args) {
-		Kontotype kontotype = new Kontotype("NEM-Konto", "Lønkonto", "Ting sker her");
-		Konto konto = new Konto(kontotype);
-		
-	}
-}
